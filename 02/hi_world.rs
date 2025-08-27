@@ -1,1 +1,3 @@
-any text
+fn main() {
+	println!("Hello, world!");
+}
